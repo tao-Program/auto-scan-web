@@ -2,7 +2,7 @@
 
 # [WARN]注意运行时要用(This is ruler) user@system$ bash auto_network_scan.sh
 # 使用此脚本的前提是安装有，ping，nmap，scapy，等程序
-# 作者：Chemistry&Programing,  zhang233Program@gmail.com  or  2331858952@qq.com， 时间 : 2020/3/31
+# 作者：Chemistry&Programing, 2331858952@qq.com， 时间 : 2020/3/31
 
 user_name=$(whoami)
 
