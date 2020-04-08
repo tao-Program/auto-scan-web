@@ -1,4 +1,4 @@
-# auto-scan-web 自动扫描网络
+# auto-scan-web 自动扫描网络 :heart: :blush:
 
 适合于Linux系统最好是Kali Linux系统
 需要预先安装ping， nmap， scapy，才能够正常使用
